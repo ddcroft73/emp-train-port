@@ -20,13 +20,13 @@ Supervisors will get vital information from the user:
     1. Employees may be reached by the supervisor without knowing their personal information. Phone number.
     2. Supervisors may  be reached by the employee without knowing their personal information. Phone number.
 
-The employess route and parts checked out for the day can be tallied and reported by the end of the shift.   
+The employess route and parts maintained for the day can be tallied and reported by the end of the shift.   
 Ultimately the consumption of a routes parts may be tracked for long periods of time in this manner and will make available useful infromation to the supervisor.
 
-Basic applicatioin usage:
-  1. Employee will register ther information with the application.
+## Basic applicatioin usage:
+  1. Employee will register there information with the application.
   2. Employee wil log in, and may stay logged in.
-  3. The 'HomePage' presented will be a simple option list from which they will select the current route.
+  3. The 'HomePage' presented will be a simple option list from which they will select their designated route.
   4. A simple list, ordered by High to Low will then be generated from the parts database.
     - The list will be comprised of:
         - Part ID - Part Location - Part info - Part add to list
@@ -37,28 +37,45 @@ Basic applicatioin usage:
   6. At any time a report may be generated, and said report can be emailed to the supervisor at the end of the shift .
 
 ___ 
-* Parts classification:
+<br>
+
+* ## Parts classification:
+
   All parts will be rated on a 3 tier system, ordered and color coded by rate of consumption.
     - Red - High runners.
     - Orange - Medium runners.
     - Blue - Low runners.
     The parts may be sorted by the way they are located on the line, or by rate of use.
 
-* Paging System:
+* ## Paging System:
     - The supervisor and employess will be able to send text messages directly to each other without the need to
       share phone numbers. This feature is in Beta and currrenly only allows th communucation to be sent one way.    
     - There is no need for the pagee to be logged into the system to receive a text. The application uses the persons
       personal phone number they submit at registration but the numbers are only known by the application. The pager
       must be logged in to issue a "Page".  
+<br><br>
+## Production Stages:
+___
+The application will be produced in five different phases.
+   * Phase I
+      - A simple dynamically produced page that connects to a database. Users will not log in and everyone will see the same data. It is in this phase I plan to work out some of the kinks for the basic UI.
+      - Basic checklist generation.
+   * Phase II
+      - User\Supervisor registration and login will be implemented along with better overall design. Navbar for quick site navigation. Fully formed Database entries with image and product description.
+   * Phase III
+      - Implementation of user generated reports to be emailed to the supervisor. 
+   * Phase IV
+      - Fully functional messaging system to be used between super and employee.
+   * Phase V
+      - Integrated QR Scanner to make checklists faster and easier.   
 
-
-Proposed features:
+## Future Proposed features:
  - a QR scanner to allow an employees to simply scan a part and generate a checklist. No need to hand select a part.
  - A 2 way texting feature that will work SMS both ways. As it is it will stil keep an employess\supervisors info private.
-<br><br>
+<br><br><br>
 
 ## Realistic thoughts about the project:
-
+___
 Some of these features would become cumbersome to seasoned employees, in fact, they all would. Once an employee knows their route there will be little need to use for this application, save the the benefits of tracking parts for a particular route or to use as a communication portal without saring information. However the benefits mostly lie with the introduction of new employees so they can do their job more effeciently sooner, and the bells and whisltes are just demonstrative of the silllset I employ. 
 <br><br>
 
