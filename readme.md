@@ -15,26 +15,26 @@ Employees will no longer need to be shadowed for a period of days. Using this ap
   5. Map to show the part location from the home route.
   6. Generated checklist the employee can use to ensure the parts they need and make less trips for forgotten parts.
 
-Supervisors will get vital information from the use:
- - Employee\supervisor paging system: (*)Currently one way communication.
-    1. Employees may be reached by the supervisor without knowing personal information. Phone number.
-    2. Supervisors may  be reached by the employee without knowing personal information. Phone number.
+Supervisors will get vital information from the user:
+ - Employee\supervisor paging system: (*)Currently only one way communication.
+    1. Employees may be reached by the supervisor without knowing their personal information. Phone number.
+    2. Supervisors may  be reached by the employee without knowing their personal information. Phone number.
 
 The employess route and parts checked out for the day can be tallied and reported by the end of the shift.   
-Ultimately the consumption of a routes parts may be tracked for long periods of time in this manner.
+Ultimately the consumption of a routes parts may be tracked for long periods of time in this manner and will make available useful infromation to the supervisor.
 
 Basic applicatioin usage:
   1. Employee will register ther information with the application.
-  2. Employee wil log in, and may stay loggedin.
-  3. The 'HomePage' presented will be a simple option list that they will select the current route.
-  4. A simple list, ordered by High to Low will then be generated fron the database.
+  2. Employee wil log in, and may stay logged in.
+  3. The 'HomePage' presented will be a simple option list from which they will select the current route.
+  4. A simple list, ordered by High to Low will then be generated from the parts database.
     - The list will be comprised of:
         - Part ID - Part Location - Part info - Part add to list
-        - Part Info will give extra data about the part, Picture and simple map to exactly where it is located.
-        - An employee can begin to generate a personal checklist from here by "Adding" the part to a list with a click\tap.
+        - Part info will give extra data about the part, picture and simple map to exactly where it is located.
+        - An employee may generate a personal checklist from here by "Adding" the part to a list with a click\tap.
   5. Once the employee has gathered the needed items for the current run, A list will be generated to be checked off
      as each part is aquired. 
-  6. At any time a report may be generated, and said report can be emailed to the supervisor.
+  6. At any time a report may be generated, and said report can be emailed to the supervisor at the end of the shift .
 
 ___ 
 * Parts classification:
@@ -52,17 +52,18 @@ ___
       must be logged in to issue a "Page".  
 
 
-
-Thoughts:
-
-Some of these features will become cumbersome to seasoned employees, in fact, they all will. Once an employee knows their route there will be little need to use this application. However the benefits mostly lie with the introduction of new employees so they can do their job more effeciently sooner. 
-
 Proposed features:
  - a QR scanner to allow an employees to simply scan a part and generate a checklist. No need to hand select a part.
  - A 2 way texting feature that will work SMS both ways. As it is it will stil keep an employess\supervisors info private.
- ___
+<br><br>
+
+## Realistic thoughts about the project:
+
+Some of these features would become cumbersome to seasoned employees, in fact, they all would. Once an employee knows their route there will be little need to use for this application, save the the benefits of tracking parts for a particular route or to use as a communication portal without saring information. However the benefits mostly lie with the introduction of new employees so they can do their job more effeciently sooner, and the bells and whisltes are just demonstrative of the silllset I employ. 
+<br><br>
+
  # Disclaimer:
 
- This application is in no way meant to be used on OP premises, for work pertaining to Plastic Omnium. It is only being used as a model for a personal portofolio project, and no OP Property (Part numbers or route names) will be used in the production of said software. I am using my experience as a material handler to solve a problem I have encountered in my day to day life, in the hopes of demonstrating my skills as a software developer to future prospected employers.
+ This application is in no way meant to be affiliated with my current employer. It is only being used as a model for a personal portofolio project, and no property (Part numbers or route names) will be used in the production of said software. I am using my experience as a material handler to solve a problem I have encountered in my day to day life, in the hopes of demonstrating my skills as a software developer to future prospected employers.
  ___
  
