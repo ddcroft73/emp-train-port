@@ -2,7 +2,7 @@
 # Portfolio Project (Employee Training Software).
 
 ## Purpose:
-___
+
 To lessen time spent employee training. Will allow a new employee to learn the job faster and will alleviate the need for two men on one job the entire time training. To totally do away with current employee training when an employee is familiar with the plant. The most difficult aspect of switching for route to route is learning the route. This application will give current employees an edge because they will have access to all parts locations at all times.
 
 ## Idea:
