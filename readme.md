@@ -23,7 +23,7 @@ Supervisors will get vital information from the user:
 The employess route and parts maintained for the day can be tallied and reported by the end of the shift.   
 Ultimately the consumption of a routes parts may be tracked for long periods of time in this manner and will make available useful infromation to the supervisor.
 
-## Basic applicatioin usage:
+## Basic application usage:
   1. Employee will register there information with the application.
   2. Employee wil log in, and may stay logged in.
   3. The 'HomePage' presented will be a simple option list from which they will select their designated route.
@@ -55,7 +55,7 @@ ___
       must be logged in to issue a "Page".  
 <br><br>
 ## Production Stages:
-___
+
 The application will be produced in five different phases.
    * Phase I
       - A simple dynamically produced page that connects to a database. Users will not log in and everyone will see the same data. It is in this phase I plan to work out some of the kinks for the basic UI.
@@ -75,12 +75,12 @@ The application will be produced in five different phases.
 <br><br><br>
 
 ## Realistic thoughts about the project:
-___
+
 Some of these features would become cumbersome to seasoned employees, in fact, they all would. Once an employee knows their route there will be little need to use for this application, save the the benefits of tracking parts for a particular route or to use as a communication portal without saring information. However the benefits mostly lie with the introduction of new employees so they can do their job more effeciently sooner, and the bells and whisltes are just demonstrative of the silllset I employ. 
 <br><br>
 
  # Disclaimer:
 
  This application is in no way meant to be affiliated with my current employer. It is only being used as a model for a personal portofolio project, and no property (Part numbers or route names) will be used in the production of said software. I am using my experience as a material handler to solve a problem I have encountered in my day to day life, in the hopes of demonstrating my skills as a software developer to future prospected employers.
- ___
+
  
