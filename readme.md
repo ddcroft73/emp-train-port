@@ -70,7 +70,7 @@ The application will be produced in five different phases.
       - Integrated QR Scanner to make checklists faster and easier.   
 
 ## Future Proposed features:
- - a QR scanner to allow an employees to simply scan a part and generate a checklist. No need to hand select a part.
+ - A QR scanner to allow an employees to simply scan a part and generate a checklist. No need to hand select a part.
  - A 2 way texting feature that will work SMS both ways. As it is it will stil keep an employess\supervisors info private.
 <br><br><br>
 
